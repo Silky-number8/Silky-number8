@@ -7,5 +7,5 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working in a microbioly laboratory
 - 💬 Ask me about lyofilizations (have you ever watched Megamind?)
-- 📫 How to reach me: <a href="sorchagalera@gmail.com" my email</a> or through my Bluesky: @sgmushroom.bsky.social
+- 📫 How to reach me: <a href="sorchagalera@gmail.com"> my email</a> or through my Bluesky: @sgmushroom.bsky.social
 - 😄 Pronouns: She/her
